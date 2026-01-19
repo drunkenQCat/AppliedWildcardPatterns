@@ -1,0 +1,13 @@
+{
+  "itemGroup.appliedwildcardpatterns": "Example Mod Tab",
+  "block.appliedwildcardpatterns.example_block": "Example Block",
+  "item.appliedwildcardpatterns.example_item": "Example Item",
+
+  "appliedwildcardpatterns.configuration.title": "Applied Wildcard Patterns Configs",
+  "appliedwildcardpatterns.configuration.section.appliedwildcardpatterns.common.toml": "Applied Wildcard Patterns Configs",
+  "appliedwildcardpatterns.configuration.section.appliedwildcardpatterns.common.toml.title": "Applied Wildcard Patterns Configs",
+  "appliedwildcardpatterns.configuration.items": "Item List",
+  "appliedwildcardpatterns.configuration.logDirtBlock": "Log Dirt Block",
+  "appliedwildcardpatterns.configuration.magicNumberIntroduction": "Magic Number Text",
+  "appliedwildcardpatterns.configuration.magicNumber": "Magic Number"
+}
